@@ -22,7 +22,7 @@ I'm the creator of [TASA-Ed Studios](https://github.com/TASA-Ed).
 - 目前，我正在制作 SCP：2.5D （以及它的分支 SCP：2.5D-SE）这款独立游戏。
   - Currently, I'm working on the indie game SCP: 2.5D (and its offshoot SCP: 2.5D-SE).
 - 同时，我也在积极维护着 [TASA-Ed 官网](https://www.tasaed.top/)，[TASA-Ed Wiki](https://wiki.tasaed.top/) 和[鹰歌游戏引擎文档](https://docs-mf.tasaed.top/)这三个网站，以及 [TASA-Ed PHP-API](https://wiki.tasaed.top/zh/wiki/api) 这一个服务。
-  - I also actively maintain the [TASA-Ed website](https://www.tasaed.top/), the (https://wiki.tasaed.top/ and [MakerFrame Game Engine Documentation](https://docs-mf.tasaed.top/), and the [TASA-Ed PHP-API](https://wiki.tasaed.top/zh/wiki/api) service.
+  - I also actively maintain the [TASA-Ed website](https://www.tasaed.top/), [TASA-Ed Wiki](https://wiki.tasaed.top/) and [MakerFrame Game Engine Documentation](https://docs-mf.tasaed.top/), and the [TASA-Ed PHP-API](https://wiki.tasaed.top/zh/wiki/api) service.
 
 ### :thought_balloon: Dream
 我的梦想是，我所做的一切都会被他人采用。
