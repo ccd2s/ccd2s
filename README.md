@@ -41,3 +41,4 @@ Just in case we lose touch, here is the contact information for each of my platf
 - Website : [TASA-Ed](https://www.tasaed.top/)
 - GitHub : [ccd2s](https://github.com/ccd2s)
 - Steam : [德二吹风机D2s](https://steamcommunity.com/profiles/76561199275852747/)
+- 爱发电 : [TASA-Ed工作室](https://afdian.com/a/tasafoe3469)
