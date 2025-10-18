@@ -44,3 +44,22 @@ Just in case we lose touch, here is the contact information for each of my platf
 - GitHub : [ccd2s](https://github.com/ccd2s)
 - Steam : [德二吹风机D2s](https://steamcommunity.com/profiles/76561199275852747/)
 - 爱发电 : [TASA-Ed工作室](https://afdian.com/a/tasafoe3469)
+
+### GPG Public Key
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEaM+6uhYJKwYBBAHaRw8BAQdAdrhlGEc3LEwLEFTbL4GwVsdDOniyN4C4+FDs
+vDIwUhi0HGNjZDJzIDx0YXNhZWRlbUBvdXRsb29rLmNvbT6IkwQTFgoAOxYhBMJL
++bqeVwB+9wPIIbPjaEtdQ6gGBQJoz7q6AhsDBQsJCAcCAiICBhUKCQgLAgQWAgMB
+Ah4HAheAAAoJELPjaEtdQ6gGeR8BALIFn91F3fpJnG9ijxzNPI7lPB6dZw7adMA/
+d6pLerqjAQD41J2//jCfbFBU1F/YA044ayXHoXwO5DaCfmYgZlJ2B7g4BGjPuroS
+CisGAQQBl1UBBQEBB0C7LTNBIyHWK9Jx+h15Q9V6Pj7+FJ9/H5Xy4TZpJV53KgMB
+CAeIeAQYFgoAIBYhBMJL+bqeVwB+9wPIIbPjaEtdQ6gGBQJoz7q6AhsMAAoJELPj
+aEtdQ6gGLDcA/i9r8ytqWgPK2SlY/Yjx13zdkxUMVaDYoeDTpdQLB6GOAQCUGgkI
+h3khAPAsON9R5kvteWDqv+aW8tkF6PRhfTu5Dw==
+=XQoh
+-----END PGP PUBLIC KEY BLOCK-----
+
+```
