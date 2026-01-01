@@ -37,8 +37,7 @@ My dream is that everything I do will be adopted by others.
 Just in case we lose touch, here is the contact information for each of my platforms.
 
 - E-mail : [tasaedem@outlook.com](mailto:tasaedem@outlook.com)
-- BiliBili-1 : [与之海edlest](https://space.bilibili.com/1936406435)
-- BiliBili-2 : [德二吹风机D2s](https://space.bilibili.com/375089871)
+- BiliBili : [与之海edlest](https://space.bilibili.com/1936406435)
 - QQ : 3112836258
 - Website : [TASA-Ed](https://www.tasaed.top/)
 - GitHub : [ccd2s](https://github.com/ccd2s)
@@ -61,5 +60,12 @@ aEtdQ6gGLDcA/i9r8ytqWgPK2SlY/Yjx13zdkxUMVaDYoeDTpdQLB6GOAQCUGgkI
 h3khAPAsON9R5kvteWDqv+aW8tkF6PRhfTu5Dw==
 =XQoh
 -----END PGP PUBLIC KEY BLOCK-----
+
+```
+
+### SSH Public Key
+
+```
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID1F63ctZGXiYT6B2Z3a4MQcFAXXKIoswB/lYjx2OlwF
 
 ```
